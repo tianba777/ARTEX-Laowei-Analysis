@@ -1,0 +1,140 @@
+[
+  {
+    "path": "suo5/suo5-linux-amd64",
+    "size": 11456674,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "subfinder/subfinder",
+    "size": 29270200,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "oneforall/OneForAll-0.4.5/thirdparty/massdns/massdns_linux_i686",
+    "size": 102436,
+    "machine": 3,
+    "arch": "x86"
+  },
+  {
+    "path": "oneforall/OneForAll-0.4.5/thirdparty/massdns/massdns_linux_x86_64",
+    "size": 106152,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "naabu/naabu",
+    "size": 34087204,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "ksubdomain/ksubdomain",
+    "size": 20011976,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "katana/katana",
+    "size": 67002530,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "httpx/httpx",
+    "size": 54444194,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "gogo/gogo_linux_arm64",
+    "size": 10223616,
+    "machine": 183,
+    "arch": "aarch64"
+  },
+  {
+    "path": "fscan/fscan",
+    "size": 8480860,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "fscan/fscan_linux_arm64",
+    "size": 7509720,
+    "machine": 183,
+    "arch": "aarch64"
+  },
+  {
+    "path": "frp/frpc",
+    "size": 16593080,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "frp/frps",
+    "size": 20332728,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "dnsx/dnsx",
+    "size": 28569784,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "AntSword/AntSword-Loader-v4.0.3-linux-x64/AntSword",
+    "size": 114900904,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "AntSword/AntSword-Loader-v4.0.3-linux-x64/libEGL.so",
+    "size": 255912,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "AntSword/AntSword-Loader-v4.0.3-linux-x64/libffmpeg.so",
+    "size": 3152384,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "AntSword/AntSword-Loader-v4.0.3-linux-x64/libGLESv2.so",
+    "size": 6058008,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "AntSword/AntSword-Loader-v4.0.3-linux-x64/libVkICD_mock_icd.so",
+    "size": 7199112,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "AntSword/AntSword-Loader-v4.0.3-linux-x64/swiftshader/libEGL.so",
+    "size": 6167456,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "AntSword/AntSword-Loader-v4.0.3-linux-x64/swiftshader/libGLESv2.so",
+    "size": 50695608,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "chisel/chisel",
+    "size": 11587744,
+    "machine": 62,
+    "arch": "x86_64"
+  },
+  {
+    "path": "gogo/gogo",
+    "size": 4340260,
+    "machine": 62,
+    "arch": "x86_64"
+  }
+]

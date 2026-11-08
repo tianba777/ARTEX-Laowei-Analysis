@@ -1,0 +1,224 @@
+[
+  {
+    "package": "",
+    "name": "kb.MissingError",
+    "size_bytes": 24,
+    "field_count": 1
+  },
+  {
+    "package": "",
+    "name": "c2.Envelope",
+    "size_bytes": 24,
+    "field_count": 1
+  },
+  {
+    "package": "github.com/Autumn-27/artex/session",
+    "name": "session.encCryptoError",
+    "size_bytes": 16,
+    "field_count": 1
+  },
+  {
+    "package": "github.com/Autumn-27/artex/kb",
+    "name": "kb.term",
+    "size_bytes": 24,
+    "field_count": 2
+  },
+  {
+    "package": "",
+    "name": "kb.Meta",
+    "size_bytes": 32,
+    "field_count": 2
+  },
+  {
+    "package": "",
+    "name": "kb.GetOptions",
+    "size_bytes": 24,
+    "field_count": 2
+  },
+  {
+    "package": "",
+    "name": "session.Error",
+    "size_bytes": 32,
+    "field_count": 2
+  },
+  {
+    "package": "github.com/Autumn-27/artex/session",
+    "name": "session.Registry",
+    "size_bytes": 32,
+    "field_count": 2
+  },
+  {
+    "package": "",
+    "name": "tunnel.ProbeReport",
+    "size_bytes": 32,
+    "field_count": 2
+  },
+  {
+    "package": "github.com/Autumn-27/artex/kb",
+    "name": "kb.scored",
+    "size_bytes": 24,
+    "field_count": 3
+  },
+  {
+    "package": "",
+    "name": "session.FsEntry",
+    "size_bytes": 32,
+    "field_count": 3
+  },
+  {
+    "package": "",
+    "name": "tunnel.RollbackStep",
+    "size_bytes": 48,
+    "field_count": 3
+  },
+  {
+    "package": "github.com/Autumn-27/artex/tunnel",
+    "name": "tunnel.redeployState",
+    "size_bytes": 40,
+    "field_count": 3
+  },
+  {
+    "package": "",
+    "name": "kb.AddResult",
+    "size_bytes": 48,
+    "field_count": 4
+  },
+  {
+    "package": "",
+    "name": "kb.Stats",
+    "size_bytes": 32,
+    "field_count": 4
+  },
+  {
+    "package": "",
+    "name": "c2.ResultMsg",
+    "size_bytes": 56,
+    "field_count": 4
+  },
+  {
+    "package": "",
+    "name": "session.encResponse",
+    "size_bytes": 56,
+    "field_count": 4
+  },
+  {
+    "package": "",
+    "name": "kb.Result",
+    "size_bytes": 120,
+    "field_count": 5
+  },
+  {
+    "package": "github.com/Autumn-27/artex/session",
+    "name": "session.encTransport",
+    "size_bytes": 88,
+    "field_count": 5
+  },
+  {
+    "package": "",
+    "name": "tunnel.Conclusion",
+    "size_bytes": 64,
+    "field_count": 5
+  },
+  {
+    "package": "",
+    "name": "c2.TaskMsg",
+    "size_bytes": 80,
+    "field_count": 6
+  },
+  {
+    "package": "",
+    "name": "c2.beaconInit",
+    "size_bytes": 88,
+    "field_count": 6
+  },
+  {
+    "package": "github.com/Autumn-27/artex/c2",
+    "name": "c2.activeListener",
+    "size_bytes": 56,
+    "field_count": 6
+  },
+  {
+    "package": "github.com/Autumn-27/artex/c2",
+    "name": "c2.Manager",
+    "size_bytes": 72,
+    "field_count": 6
+  },
+  {
+    "package": "",
+    "name": "session.encRequest",
+    "size_bytes": 96,
+    "field_count": 6
+  },
+  {
+    "package": "",
+    "name": "tunnel.ProbeResult",
+    "size_bytes": 88,
+    "field_count": 6
+  },
+  {
+    "package": "github.com/Autumn-27/artex/kb",
+    "name": "kb.Client",
+    "size_bytes": 64,
+    "field_count": 7
+  },
+  {
+    "package": "",
+    "name": "c2.Message",
+    "size_bytes": 104,
+    "field_count": 7
+  },
+  {
+    "package": "",
+    "name": "session.GeneratedShell",
+    "size_bytes": 128,
+    "field_count": 8
+  },
+  {
+    "package": "",
+    "name": "c2.ImplantInfo",
+    "size_bytes": 136,
+    "field_count": 10
+  },
+  {
+    "package": "github.com/Autumn-27/artex/tunnel",
+    "name": "tunnel.Manager",
+    "size_bytes": 120,
+    "field_count": 11
+  },
+  {
+    "package": "",
+    "name": "kb.SearchOptions",
+    "size_bytes": 216,
+    "field_count": 14
+  },
+  {
+    "package": "",
+    "name": "session.Secret",
+    "size_bytes": 240,
+    "field_count": 19
+  },
+  {
+    "package": "github.com/Autumn-27/artex/session",
+    "name": "session.HTTPShell",
+    "size_bytes": 288,
+    "field_count": 23
+  },
+  {
+    "package": "",
+    "name": "kb.AddInput",
+    "size_bytes": 384,
+    "field_count": 25
+  },
+  {
+    "package": "",
+    "name": "tunnel.Plan",
+    "size_bytes": 400,
+    "field_count": 28
+  },
+  {
+    "package": "github.com/Autumn-27/artex/kb",
+    "name": "kb.Entry",
+    "size_bytes": 456,
+    "field_count": 31
+  }
+]

@@ -1,0 +1,515 @@
+{
+  "files": 127,
+  "skill_md_files": 13,
+  "top_level_markdown_files": 34,
+  "entries": [
+    {
+      "path": "active-scan.md",
+      "bytes": 2037
+    },
+    {
+      "path": "apk-recon.md",
+      "bytes": 5408
+    },
+    {
+      "path": "asset-correlation.md",
+      "bytes": 908
+    },
+    {
+      "path": "c2-supershell.md",
+      "bytes": 8199
+    },
+    {
+      "path": "chisel-tunnel.md",
+      "bytes": 6088
+    },
+    {
+      "path": "cloud-security.md",
+      "bytes": 10690
+    },
+    {
+      "path": "cn-proxy-pool.md",
+      "bytes": 7521
+    },
+    {
+      "path": "code-audit.md",
+      "bytes": 13877
+    },
+    {
+      "path": "credential-attack.md",
+      "bytes": 9055
+    },
+    {
+      "path": "db-utilization.md",
+      "bytes": 6002
+    },
+    {
+      "path": "dir-bruteforce.md",
+      "bytes": 5673
+    },
+    {
+      "path": "fofa-recon.md",
+      "bytes": 9336
+    },
+    {
+      "path": "frp-tunnel.md",
+      "bytes": 6571
+    },
+    {
+      "path": "fscan-intranet.md",
+      "bytes": 10565
+    },
+    {
+      "path": "gogo-scan.md",
+      "bytes": 12831
+    },
+    {
+      "path": "host-enum.md",
+      "bytes": 29559
+    },
+    {
+      "path": "hunter-recon.md",
+      "bytes": 29236
+    },
+    {
+      "path": "infra-pivot.md",
+      "bytes": 7319
+    },
+    {
+      "path": "lateral-movement.md",
+      "bytes": 7889
+    },
+    {
+      "path": "memshell-fallback.md",
+      "bytes": 2996
+    },
+    {
+      "path": "nuclei-scan.md",
+      "bytes": 6747
+    },
+    {
+      "path": "passive-recon.md",
+      "bytes": 1118
+    },
+    {
+      "path": "payout-flow-analysis.md",
+      "bytes": 10482
+    },
+    {
+      "path": "quake-recon.md",
+      "bytes": 8121
+    },
+    {
+      "path": "recon-pipeline.md",
+      "bytes": 8480
+    },
+    {
+      "path": "redteam-setup.md",
+      "bytes": 11723
+    },
+    {
+      "path": "shell-handler.md",
+      "bytes": 9454
+    },
+    {
+      "path": "shodan-recon.md",
+      "bytes": 8268
+    },
+    {
+      "path": "suo5-tunnel.md",
+      "bytes": 3840
+    },
+    {
+      "path": "tunnel-selection.md",
+      "bytes": 2580
+    },
+    {
+      "path": "unauth-exploit.md",
+      "bytes": 8727
+    },
+    {
+      "path": "vps-reverse-shell.md",
+      "bytes": 10122
+    },
+    {
+      "path": "web-fingerprint.md",
+      "bytes": 2300
+    },
+    {
+      "path": "webshell-toolkit.md",
+      "bytes": 6176
+    },
+    {
+      "path": "scopesentry/SKILL.md",
+      "bytes": 16846
+    },
+    {
+      "path": "redteam-kit-host-notes/SKILL.md",
+      "bytes": 6567
+    },
+    {
+      "path": "playwright-cli/SKILL.md",
+      "bytes": 13007
+    },
+    {
+      "path": "playwright-cli/references/element-attributes.md",
+      "bytes": 688
+    },
+    {
+      "path": "playwright-cli/references/playwright-tests.md",
+      "bytes": 1729
+    },
+    {
+      "path": "playwright-cli/references/request-mocking.md",
+      "bytes": 2269
+    },
+    {
+      "path": "playwright-cli/references/running-code.md",
+      "bytes": 5883
+    },
+    {
+      "path": "playwright-cli/references/session-management.md",
+      "bytes": 5896
+    },
+    {
+      "path": "playwright-cli/references/storage-state.md",
+      "bytes": 5473
+    },
+    {
+      "path": "playwright-cli/references/test-generation.md",
+      "bytes": 16547
+    },
+    {
+      "path": "playwright-cli/references/tracing.md",
+      "bytes": 3579
+    },
+    {
+      "path": "playwright-cli/references/video-recording.md",
+      "bytes": 5530
+    },
+    {
+      "path": "chains-web/SKILL.md",
+      "bytes": 2590
+    },
+    {
+      "path": "chains-web/refs/web-auth-bypass.md",
+      "bytes": 55986
+    },
+    {
+      "path": "chains-web/refs/web-cmdi.md",
+      "bytes": 64978
+    },
+    {
+      "path": "chains-web/refs/web-cms.md",
+      "bytes": 49099
+    },
+    {
+      "path": "chains-web/refs/web-deser.md",
+      "bytes": 49895
+    },
+    {
+      "path": "chains-web/refs/web-logic.md",
+      "bytes": 60566
+    },
+    {
+      "path": "chains-web/refs/web-sqli.md",
+      "bytes": 49585
+    },
+    {
+      "path": "chains-web/refs/web-ssrf.md",
+      "bytes": 66069
+    },
+    {
+      "path": "chains-web/refs/web-ssti.md",
+      "bytes": 45358
+    },
+    {
+      "path": "chains-web/refs/web-to-shell.md",
+      "bytes": 67140
+    },
+    {
+      "path": "chains-web/refs/web-token-attack.md",
+      "bytes": 64677
+    },
+    {
+      "path": "chains-web/refs/web-upload.md",
+      "bytes": 32679
+    },
+    {
+      "path": "chains-web/refs/web-waf-bypass.md",
+      "bytes": 51846
+    },
+    {
+      "path": "chains-web/refs/web-xxe.md",
+      "bytes": 49542
+    },
+    {
+      "path": "chains-rev/SKILL.md",
+      "bytes": 1815
+    },
+    {
+      "path": "chains-rev/refs/rev-algo-recover.md",
+      "bytes": 53411
+    },
+    {
+      "path": "chains-rev/refs/rev-deobf.md",
+      "bytes": 55805
+    },
+    {
+      "path": "chains-rev/refs/rev-dynamic-debug.md",
+      "bytes": 61297
+    },
+    {
+      "path": "chains-rev/refs/rev-static-entry.md",
+      "bytes": 70833
+    },
+    {
+      "path": "chains-recon/SKILL.md",
+      "bytes": 2266
+    },
+    {
+      "path": "chains-recon/refs/recon-asset-surface.md",
+      "bytes": 50968
+    },
+    {
+      "path": "chains-recon/refs/recon-fingerprint.md",
+      "bytes": 40031
+    },
+    {
+      "path": "chains-recon/refs/recon-js-endpoints.md",
+      "bytes": 50732
+    },
+    {
+      "path": "chains-recon/refs/recon-leak-hunting.md",
+      "bytes": 49696
+    },
+    {
+      "path": "chains-recon/refs/recon-osint.md",
+      "bytes": 36234
+    },
+    {
+      "path": "chains-recon/refs/recon-param-mining.md",
+      "bytes": 48146
+    },
+    {
+      "path": "chains-recon/refs/recon-when-enough.md",
+      "bytes": 59976
+    },
+    {
+      "path": "chains-pwn/SKILL.md",
+      "bytes": 1657
+    },
+    {
+      "path": "chains-pwn/refs/pwn-exploit-chain.md",
+      "bytes": 52016
+    },
+    {
+      "path": "chains-pwn/refs/pwn-heap.md",
+      "bytes": 46762
+    },
+    {
+      "path": "chains-pwn/refs/pwn-stack.md",
+      "bytes": 38028
+    },
+    {
+      "path": "chains-priv/SKILL.md",
+      "bytes": 2306
+    },
+    {
+      "path": "chains-priv/refs/priv-container-cloud.md",
+      "bytes": 52748
+    },
+    {
+      "path": "chains-priv/refs/priv-disablefunc.md",
+      "bytes": 59375
+    },
+    {
+      "path": "chains-priv/refs/priv-exec-primitive.md",
+      "bytes": 60461
+    },
+    {
+      "path": "chains-priv/refs/priv-foothold-recon.md",
+      "bytes": 51893
+    },
+    {
+      "path": "chains-priv/refs/priv-linux.md",
+      "bytes": 64177
+    },
+    {
+      "path": "chains-priv/refs/priv-persistence.md",
+      "bytes": 48997
+    },
+    {
+      "path": "chains-priv/refs/priv-windows.md",
+      "bytes": 36617
+    },
+    {
+      "path": "chains-pivot/SKILL.md",
+      "bytes": 2164
+    },
+    {
+      "path": "chains-pivot/refs/pivot-deep-discovery.md",
+      "bytes": 51885
+    },
+    {
+      "path": "chains-pivot/refs/pivot-no-reverse.md",
+      "bytes": 5217
+    },
+    {
+      "path": "chains-pivot/refs/pivot-oneway-webshell.md",
+      "bytes": 8037
+    },
+    {
+      "path": "chains-pivot/refs/pivot-tunnel-blocked.md",
+      "bytes": 21758
+    },
+    {
+      "path": "chains-pivot/refs/pivot-tunnel-choice.md",
+      "bytes": 41415
+    },
+    {
+      "path": "chains-meta/SKILL.md",
+      "bytes": 2566
+    },
+    {
+      "path": "chains-meta/refs/meta-close-the-kill.md",
+      "bytes": 3771
+    },
+    {
+      "path": "chains-meta/refs/meta-give-up.md",
+      "bytes": 47701
+    },
+    {
+      "path": "chains-meta/refs/meta-orthogonal.md",
+      "bytes": 49107
+    },
+    {
+      "path": "chains-meta/refs/meta-priority.md",
+      "bytes": 62841
+    },
+    {
+      "path": "chains-meta/refs/meta-stuck-detect.md",
+      "bytes": 82215
+    },
+    {
+      "path": "chains-meta/refs/meta-trust-obs.md",
+      "bytes": 71371
+    },
+    {
+      "path": "chains-app/SKILL.md",
+      "bytes": 2137
+    },
+    {
+      "path": "chains-app/refs/app-apk-recon.md",
+      "bytes": 35781
+    },
+    {
+      "path": "chains-app/refs/app-cs-capture.md",
+      "bytes": 34424
+    },
+    {
+      "path": "chains-app/refs/app-frida.md",
+      "bytes": 40753
+    },
+    {
+      "path": "chains-app/refs/app-local-secrets.md",
+      "bytes": 61521
+    },
+    {
+      "path": "chains-app/refs/app-miniapp.md",
+      "bytes": 59739
+    },
+    {
+      "path": "chains-app/refs/app-proto-crypto.md",
+      "bytes": 58523
+    },
+    {
+      "path": "chains-app/refs/app-unpack.md",
+      "bytes": 20711
+    },
+    {
+      "path": "chains-ad/SKILL.md",
+      "bytes": 2558
+    },
+    {
+      "path": "chains-ad/refs/ad-adcs.md",
+      "bytes": 48249
+    },
+    {
+      "path": "chains-ad/refs/ad-constrained-delegation.md",
+      "bytes": 4997
+    },
+    {
+      "path": "chains-ad/refs/ad-cred-harvest.md",
+      "bytes": 56476
+    },
+    {
+      "path": "chains-ad/refs/ad-dcsync-flag.md",
+      "bytes": 46715
+    },
+    {
+      "path": "chains-ad/refs/ad-direct-vs-lateral.md",
+      "bytes": 48472
+    },
+    {
+      "path": "chains-ad/refs/ad-kerberos.md",
+      "bytes": 37367
+    },
+    {
+      "path": "chains-ad/refs/ad-noauth-cve.md",
+      "bytes": 36515
+    },
+    {
+      "path": "chains-ad/refs/ad-password-spray.md",
+      "bytes": 51203
+    },
+    {
+      "path": "chains-ad/refs/ad-recon.md",
+      "bytes": 55354
+    },
+    {
+      "path": "chains-ad/refs/ad-tunnel-friendly.md",
+      "bytes": 34283
+    },
+    {
+      "path": "api-recon/reference.md",
+      "bytes": 19926
+    },
+    {
+      "path": "api-recon/SKILL.md",
+      "bytes": 18800
+    },
+    {
+      "path": "api-recon/scripts/build_perm_tree.py",
+      "bytes": 8164
+    },
+    {
+      "path": "api-recon/scripts/extract_route_map.py",
+      "bytes": 1351
+    },
+    {
+      "path": "api-recon/scripts/harvest_static.py",
+      "bytes": 8776
+    },
+    {
+      "path": "api-recon/scripts/package-lock.json",
+      "bytes": 37211
+    },
+    {
+      "path": "api-recon/scripts/package.json",
+      "bytes": 217
+    },
+    {
+      "path": "api-recon/scripts/preload.js",
+      "bytes": 13033
+    },
+    {
+      "path": "api-recon/scripts/runtime_harvest.js",
+      "bytes": 11629
+    },
+    {
+      "path": "api-recon/scripts/spider_mpa.py",
+      "bytes": 6007
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "analysis_date": "2026-11-08",
+  "archive_name": "ARTEX-老魏二改带知识库-linux-arm64.tar.gz",
+  "archive_sha256": "3c2dbea3295e64a1d9358a0a00a05650a2a2d1e2db12ae78b883625ce7fdb09b",
+  "executable_sha256": "4406899cf07a8406d3015a0b82d140edb863bb529c18713e500a536e3e36e833",
+  "knowledge_sha256": "99fc98333c9cee925d2d556784392397e3bff9dcc2a45f4ba11e021c321130ce",
+  "build_metadata": {
+    "CGO_ENABLED": "0",
+    "GOARCH": "arm64",
+    "GOOS": "linux",
+    "vcs": "git",
+    "vcs.revision": "5840cd3a7030a51422208370ed6239b957d87f8b",
+    "vcs.time": "2026-10-24T12:45:17Z",
+    "vcs.modified": "true"
+  },
+  "real_function_entries": 31903,
+  "indexed_application_functions": 4347,
+  "selected_unique_decompiled_functions": 168,
+  "recovered_named_structs": 37,
+  "reference_executed": false,
+  "deployed": false,
+  "published_material": "Analysis documents and derived metadata only; no binary, application source, decompiled execution bodies, knowledge entries, target data or credentials."
+}

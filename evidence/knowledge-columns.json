@@ -1,0 +1,170 @@
+[
+  {
+    "name": "id",
+    "sql_type": "INTEGER",
+    "not_null": false,
+    "primary_key": true
+  },
+  {
+    "name": "code",
+    "sql_type": "TEXT",
+    "not_null": true,
+    "primary_key": false
+  },
+  {
+    "name": "title",
+    "sql_type": "TEXT",
+    "not_null": true,
+    "primary_key": false
+  },
+  {
+    "name": "kind",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "category",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "cve",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "component",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "versions",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "severity",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "language",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "source",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "source_url",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "description",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "usage",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "content",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "path",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "verified",
+    "sql_type": "INTEGER",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "verified_note",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "hit_count",
+    "sql_type": "INTEGER",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "used_on",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "engagement_id",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "engagement_name",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "asset_target",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "found_by_agent",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "tags",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "created_by",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "created_at",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  },
+  {
+    "name": "updated_at",
+    "sql_type": "TEXT",
+    "not_null": false,
+    "primary_key": false
+  }
+]

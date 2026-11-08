@@ -1,0 +1,108 @@
+{
+  "items": 20078,
+  "regular_files": 17971,
+  "directories": 2107,
+  "uncompressed_file_bytes": 1335260897,
+  "groups": {
+    "README-linux.txt": {
+      "files": 1,
+      "directories": 0,
+      "bytes": 1566
+    },
+    "SHA256SUMS": {
+      "files": 1,
+      "directories": 0,
+      "bytes": 159
+    },
+    "artex": {
+      "files": 1,
+      "directories": 0,
+      "bytes": 39977084
+    },
+    "config.example.json": {
+      "files": 1,
+      "directories": 0,
+      "bytes": 1185
+    },
+    "defaults.sql": {
+      "files": 1,
+      "directories": 0,
+      "bytes": 114772
+    },
+    "install-deps.sh": {
+      "files": 1,
+      "directories": 0,
+      "bytes": 5163
+    },
+    "nuclei-templates": {
+      "files": 14365,
+      "directories": 907,
+      "bytes": 48568615
+    },
+    "redteam": {
+      "files": 0,
+      "directories": 1,
+      "bytes": 0
+    },
+    "redteam/knowledge.db": {
+      "files": 1,
+      "directories": 0,
+      "bytes": 6017024
+    },
+    "redteam/knowledge.db.bak-before-category-20261023": {
+      "files": 1,
+      "directories": 0,
+      "bytes": 5947392
+    },
+    "redteam/knowledge.db.bak-before-entry57-20261023": {
+      "files": 1,
+      "directories": 0,
+      "bytes": 5959680
+    },
+    "redteam/knowledge.db.bak-before-purge-bzp": {
+      "files": 1,
+      "directories": 0,
+      "bytes": 1650688
+    },
+    "redteam/patches": {
+      "files": 1031,
+      "directories": 177,
+      "bytes": 65806610
+    },
+    "redteam/pocs": {
+      "files": 739,
+      "directories": 778,
+      "bytes": 4484704
+    },
+    "redteam/skills": {
+      "files": 35,
+      "directories": 1,
+      "bytes": 289891
+    },
+    "redteam/toolkit": {
+      "files": 1661,
+      "directories": 216,
+      "bytes": 1152939934
+    },
+    "requirements.txt": {
+      "files": 1,
+      "directories": 0,
+      "bytes": 207
+    },
+    "skills": {
+      "files": 127,
+      "directories": 25,
+      "bytes": 3491109
+    },
+    "start-artex.sh": {
+      "files": 1,
+      "directories": 0,
+      "bytes": 2666
+    },
+    "start.sh": {
+      "files": 1,
+      "directories": 0,
+      "bytes": 2448
+    }
+  }
+}

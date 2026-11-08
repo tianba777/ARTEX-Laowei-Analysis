@@ -1,0 +1,10 @@
+*.db
+*.sqlite
+*.sqlite3
+*.key
+*.pem
+.env
+config.json
+*.tar.gz
+*.zip
+.DS_Store

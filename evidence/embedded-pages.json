@@ -1,0 +1,138 @@
+[
+  {
+    "path": "webui/dist/index.html",
+    "bytes": 14815
+  },
+  {
+    "path": "webui/dist/404/index.html",
+    "bytes": 20537
+  },
+  {
+    "path": "webui/dist/_not-found/index.html",
+    "bytes": 20537
+  },
+  {
+    "path": "webui/dist/c2/index.html",
+    "bytes": 24478
+  },
+  {
+    "path": "webui/dist/chat/index.html",
+    "bytes": 25426
+  },
+  {
+    "path": "webui/dist/dashboard/index.html",
+    "bytes": 24729
+  },
+  {
+    "path": "webui/dist/function/assets/index.html",
+    "bytes": 25202
+  },
+  {
+    "path": "webui/dist/function/commands/index.html",
+    "bytes": 24970
+  },
+  {
+    "path": "webui/dist/function/findings/index.html",
+    "bytes": 25485
+  },
+  {
+    "path": "webui/dist/function/findings/detail/index.html",
+    "bytes": 26515
+  },
+  {
+    "path": "webui/dist/function/llm-records/index.html",
+    "bytes": 24976
+  },
+  {
+    "path": "webui/dist/function/sync/index.html",
+    "bytes": 24962
+  },
+  {
+    "path": "webui/dist/function/tasks/index.html",
+    "bytes": 25479
+  },
+  {
+    "path": "webui/dist/function/tasks/detail/index.html",
+    "bytes": 26981
+  },
+  {
+    "path": "webui/dist/function/traffic/index.html",
+    "bytes": 25204
+  },
+  {
+    "path": "webui/dist/function/workspace/index.html",
+    "bytes": 24972
+  },
+  {
+    "path": "webui/dist/intranet/index.html",
+    "bytes": 24726
+  },
+  {
+    "path": "webui/dist/login/index.html",
+    "bytes": 22418
+  },
+  {
+    "path": "webui/dist/setup/index.html",
+    "bytes": 22057
+  },
+  {
+    "path": "webui/dist/system/agents/index.html",
+    "bytes": 25477
+  },
+  {
+    "path": "webui/dist/system/agents/detail/index.html",
+    "bytes": 25954
+  },
+  {
+    "path": "webui/dist/system/cleanup/index.html",
+    "bytes": 24964
+  },
+  {
+    "path": "webui/dist/system/intercept/index.html",
+    "bytes": 24967
+  },
+  {
+    "path": "webui/dist/system/intercept/approvals/index.html",
+    "bytes": 25305
+  },
+  {
+    "path": "webui/dist/system/intercept/assets/index.html",
+    "bytes": 25488
+  },
+  {
+    "path": "webui/dist/system/kb/index.html",
+    "bytes": 25190
+  },
+  {
+    "path": "webui/dist/system/llm/index.html",
+    "bytes": 25192
+  },
+  {
+    "path": "webui/dist/system/logs/index.html",
+    "bytes": 24958
+  },
+  {
+    "path": "webui/dist/system/mcp/index.html",
+    "bytes": 24956
+  },
+  {
+    "path": "webui/dist/system/notify/index.html",
+    "bytes": 24962
+  },
+  {
+    "path": "webui/dist/system/settings/index.html",
+    "bytes": 25202
+  },
+  {
+    "path": "webui/dist/system/skills/index.html",
+    "bytes": 25198
+  },
+  {
+    "path": "webui/dist/system/tools/index.html",
+    "bytes": 24960
+  },
+  {
+    "path": "webui/dist/webshell/index.html",
+    "bytes": 24727
+  }
+]
